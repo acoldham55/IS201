@@ -1,0 +1,50 @@
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px black;
+    width: 450px;
+    height:500px;
+}
+iframe{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.post-title{
+    font-family: verdana;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    color:rgb(85, 104, 129);
+    text-align:center;
+    font-size:22px;
+}
+.caption{
+    font-family:verdana;
+    text-decoration:italic;
+    color: rgb(91, 151, 91);
+    text-align:center;
+
+}
+.title{
+    color: rgb(4, 99, 99);
+}
+.aboutimg{
+    box-sizing: border-box;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    height:auto;
+}
+.tucanos{
+    text-align: center;
+    color: rgb(109, 124, 106);
+}
+.contact{
+    color: rgb(93, 148, 57);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+    text-align: center;
+}

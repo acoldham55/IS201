@@ -1,0 +1,52 @@
+body{
+    align-items: center;
+    background-color: rgb(225, 250, 225);
+}
+.footer {
+    position:fixed;
+    left: 0px;
+    right:0px;
+    bottom: 0px;
+    border-top: 2px solid;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.link{
+    text-align: right;
+    text-emphasis: bold;
+    Color: rgb(57, 124, 124);
+    text-decoration: none;
+    padding:2px;
+}
+.link:hover{
+    color: #0d5e47;
+}
+.tableauPlaceholder{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    size: smaller;
+    max-width: 900px;
+}
+.nav{
+    background-color: white;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid grey;
+}
+.caption{
+    margin-left:auto;
+    margin-right:auto;
+    color:grey;
+    text-align:center;
+    border: solid rgb(43, 87, 122);
+    max-width:900px;
+    background-color: white;
+    font-size: 14pt;
+}
+.title{
+    text-align: center;
+    text-decoration: Bold;
+    font-size: 18pt ;
+}
